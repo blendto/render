@@ -8,8 +8,7 @@ environment:
   flutter: '>=3.7.0-1.4.pre'
 
 dependencies:
-  ffmpeg_kit_flutter_https_gpl: ^5.1.0
-  provider: ^6.0.5
+  ffmpeg_kit_flutter_full_gpl: ^6.0.3-LTS
   flutter:
     sdk: flutter
   path_provider: ^2.0.15
